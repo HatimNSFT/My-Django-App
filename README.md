@@ -12,6 +12,14 @@ following is the list of apps with their descriptions:
 
 <b>2. Calc - Simple Addition WebPage</b>
 <ul>
-<li>
-<li>
+<li>Basically it accepts 2 numbers and provides addition of those numbers using the Django Framework
+<li>It basically describes how the Django Framework Works
 </ul>
+
+<b>2. Travello - Travelling App</b>
+<ul>
+<li>It is a Travelling website template used as an example of how to pass dynamic data in an Website
+<li>It basically displays the data from the database using the Django framework.
+<li>It shows how data can be manipulated using the Database/from backend
+</ul>
+
